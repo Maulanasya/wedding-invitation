@@ -197,7 +197,7 @@ export default function Home() {
         {/* Top Navigation */}
         <div className="relative z-10 flex items-center justify-between px-6 py-7 sm:px-10 lg:px-16">
           <p className="text-[9px] uppercase tracking-[0.4em] text-white/70">
-            O & R
+            A & S
           </p>
 
           <p className="text-[8px] uppercase tracking-[0.35em] text-white/60">
@@ -217,7 +217,7 @@ export default function Home() {
             <Reveal delay={150} duration={1400}>
               <div className="relative mx-auto max-w-5xl">
                 <h1 className="font-serif text-[clamp(5rem,16vw,13rem)] leading-[0.7] tracking-[-0.07em]">
-                  Olivia
+                  Alex
                 </h1>
 
                 <div className="my-7 flex items-center justify-center gap-5 sm:my-10">
@@ -231,7 +231,7 @@ export default function Home() {
                 </div>
 
                 <h1 className="font-serif text-[clamp(5rem,16vw,13rem)] leading-[0.7] tracking-[-0.07em]">
-                  Ralph
+                  Steve
                 </h1>
               </div>
             </Reveal>
@@ -369,7 +369,7 @@ export default function Home() {
                   </p>
 
                   <p className="font-serif text-4xl italic">
-                    The Glass House
+                    The Balai Sarwono
                   </p>
                 </div>
               </div>
@@ -380,7 +380,7 @@ export default function Home() {
                 </p>
 
                 <h2 className="font-serif text-5xl leading-[0.9] tracking-[-0.05em] text-[#302d28] sm:text-6xl">
-                  The Glass
+                  The Balai Sarwono
                   <br />
                   <span className="italic text-[#83786a]">
                     House.
@@ -393,7 +393,7 @@ export default function Home() {
 
                 <div className="mt-10">
                   <p className="font-serif text-lg text-[#403b34]">
-                    Jl. Contoh No. 18
+                    Jl. Madrasah No.14 7, RT.7/RW.6, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560
                   </p>
 
                   <p className="mt-2 text-[9px] uppercase tracking-[0.2em] text-[#938a7d]">
@@ -662,7 +662,7 @@ export default function Home() {
               <Floral className="mb-7 h-10 w-10 text-[#9b8e7e]" />
 
               <p className="font-serif text-xl italic text-[#575046]">
-                Olivia & Ralph
+                Alex & Steve
               </p>
 
               <p className="mt-3 text-[8px] uppercase tracking-[0.4em] text-[#92897b]">
@@ -677,7 +677,7 @@ export default function Home() {
       <footer className="border-t border-[#d7d0c5] bg-[#eee9df] px-6 py-8 sm:px-10 lg:px-16">
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-[8px] uppercase tracking-[0.3em] text-[#898073]">
-            O & R
+            A & S
           </p>
 
           <p className="text-center font-serif text-xs italic text-[#898073]">
@@ -699,7 +699,7 @@ export default function Home() {
       {/* Music Player */}
       <MusicPlayer
         src="/music/wedding.mp3"
-        title="Olivia & Ralph"
+        title="Alex & Steve"
         audioRef={audioRef}
       />
 

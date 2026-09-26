@@ -620,7 +620,7 @@ function Opening({ onOpen }) {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "font-serif text-[clamp(4.5rem,17vw,8rem)] leading-[0.72] tracking-[-0.07em]",
-                                children: "Olivia"
+                                children: "Alex"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/Opening.tsx",
                                 lineNumber: 62,
@@ -659,7 +659,7 @@ function Opening({ onOpen }) {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "font-serif text-[clamp(4.5rem,17vw,8rem)] leading-[0.72] tracking-[-0.07em]",
-                                children: "Ralph"
+                                children: "Steve"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/Opening.tsx",
                                 lineNumber: 76,
@@ -943,7 +943,7 @@ function RsvpModal({ isOpen, onClose }) {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "mb-5 text-[8px] font-medium uppercase tracking-[0.45em] text-[#81796d]",
-                                        children: "Olivia & Ralph"
+                                        children: "Alex & Steve"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/RsvpModal.tsx",
                                         lineNumber: 90,
@@ -983,7 +983,7 @@ function RsvpModal({ isOpen, onClose }) {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "font-serif text-[9px] italic text-[#9b9081]",
-                                        children: "O & R"
+                                        children: "A & S"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/RsvpModal.tsx",
                                         lineNumber: 104,
@@ -1290,7 +1290,7 @@ function RsvpModal({ isOpen, onClose }) {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "mt-6 max-w-xs text-[10px] leading-[1.9] text-[#756e64]",
-                                children: "Terima kasih atas konfirmasi dan ucapan baik yang telah diberikan untuk Olivia & Ralph."
+                                children: "Terima kasih atas konfirmasi dan ucapan baik yang telah diberikan untuk Alex & Steve."
                             }, void 0, false, {
                                 fileName: "[project]/app/components/RsvpModal.tsx",
                                 lineNumber: 244,
@@ -1897,7 +1897,7 @@ function Home() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "jsx-d18007753537762e" + " " + "text-[9px] uppercase tracking-[0.4em] text-white/70",
-                                children: "O & R"
+                                children: "A & S"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 199,
@@ -1946,7 +1946,7 @@ function Home() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                                 className: "jsx-d18007753537762e" + " " + "font-serif text-[clamp(5rem,16vw,13rem)] leading-[0.7] tracking-[-0.07em]",
-                                                children: "Olivia"
+                                                children: "Alex"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
                                                 lineNumber: 219,
@@ -1985,7 +1985,7 @@ function Home() {
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                                 className: "jsx-d18007753537762e" + " " + "font-serif text-[clamp(5rem,16vw,13rem)] leading-[0.7] tracking-[-0.07em]",
-                                                children: "Ralph"
+                                                children: "Steve"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
                                                 lineNumber: 233,
@@ -2370,7 +2370,7 @@ function Home() {
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "jsx-d18007753537762e" + " " + "font-serif text-4xl italic",
-                                                    children: "The Glass House"
+                                                    children: "The Balai Sarwono"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/page.tsx",
                                                     lineNumber: 371,
@@ -2402,7 +2402,7 @@ function Home() {
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                             className: "jsx-d18007753537762e" + " " + "font-serif text-5xl leading-[0.9] tracking-[-0.05em] text-[#302d28] sm:text-6xl",
                                             children: [
-                                                "The Glass",
+                                                "The Balai Sarwono",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
                                                     className: "jsx-d18007753537762e"
                                                 }, void 0, false, {
@@ -2437,7 +2437,7 @@ function Home() {
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "jsx-d18007753537762e" + " " + "font-serif text-lg text-[#403b34]",
-                                                    children: "Jl. Contoh No. 18"
+                                                    children: "Jl. Madrasah No.14 7, RT.7/RW.6, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/page.tsx",
                                                     lineNumber: 395,
@@ -3126,7 +3126,7 @@ function Home() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "jsx-d18007753537762e" + " " + "font-serif text-xl italic text-[#575046]",
-                                            children: "Olivia & Ralph"
+                                            children: "Alex & Steve"
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
                                             lineNumber: 664,
@@ -3170,7 +3170,7 @@ function Home() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "jsx-d18007753537762e" + " " + "text-[8px] uppercase tracking-[0.3em] text-[#898073]",
-                            children: "O & R"
+                            children: "A & S"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
                             lineNumber: 679,
@@ -3213,7 +3213,7 @@ function Home() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$MusicPlayer$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 src: "/music/wedding.mp3",
-                title: "Olivia & Ralph",
+                title: "Alex & Steve",
                 audioRef: audioRef
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",

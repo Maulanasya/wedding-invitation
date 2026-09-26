@@ -60,7 +60,7 @@ export default function Opening({ onOpen }: OpeningProps) {
           }`}
         >
           <h1 className="font-serif text-[clamp(4.5rem,17vw,8rem)] leading-[0.72] tracking-[-0.07em]">
-            Olivia
+            Alex
           </h1>
 
           <div className="my-7 flex items-center justify-center gap-4">
@@ -74,7 +74,7 @@ export default function Opening({ onOpen }: OpeningProps) {
           </div>
 
           <h1 className="font-serif text-[clamp(4.5rem,17vw,8rem)] leading-[0.72] tracking-[-0.07em]">
-            Ralph
+            Steve
           </h1>
         </div>
 

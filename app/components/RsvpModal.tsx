@@ -88,7 +88,7 @@ export default function RsvpModal({ isOpen, onClose }: RsvpModalProps) {
               {/* Kepala Modal */}
               <div className="mb-10 text-center">
                 <p className="mb-5 text-[8px] font-medium uppercase tracking-[0.45em] text-[#81796d]">
-                  Olivia & Ralph
+                  Alex & Steve
                 </p>
                 <h3 className="font-serif text-[clamp(2.4rem,7vw,3.5rem)] font-normal leading-[0.9] tracking-[-0.045em] text-[#292722]">
                   Bergabunglah
@@ -101,7 +101,7 @@ export default function RsvpModal({ isOpen, onClose }: RsvpModalProps) {
               {/* Pemisah Dekoratif */}
               <div className="mb-8 flex items-center justify-center gap-3">
                 <span className="h-px w-8 bg-[#b8ab98]" />
-                <span className="font-serif text-[9px] italic text-[#9b9081]">O & R</span>
+                <span className="font-serif text-[9px] italic text-[#9b9081]">A & S</span>
                 <span className="h-px w-8 bg-[#b8ab98]" />
               </div>
 
@@ -242,7 +242,7 @@ export default function RsvpModal({ isOpen, onClose }: RsvpModalProps) {
               </h3>
 
               <p className="mt-6 max-w-xs text-[10px] leading-[1.9] text-[#756e64]">
-                Terima kasih atas konfirmasi dan ucapan baik yang telah diberikan untuk Olivia & Ralph.
+                Terima kasih atas konfirmasi dan ucapan baik yang telah diberikan untuk Alex & Steve.
               </p>
 
               <button
